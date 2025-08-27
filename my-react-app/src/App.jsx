@@ -25,13 +25,13 @@
 
 // export default App
 
-import Button1 from "./Button1";
-import ProfilePicture from "./ProfilePicture";
+import Counter from "./Counter";
 
 function App(){
   return(
-    <ProfilePicture/>
+    <Counter />
   );
 }
 
 export default App
+
