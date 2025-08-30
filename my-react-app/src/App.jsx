@@ -25,11 +25,11 @@
 
 // export default App
 
-import MyComponent3 from './MyComponent3'
+import ComponentA from "./ComponentA";
 
 function App(){
   return(
-    <MyComponent3 />
+    <ComponentA />
   );
 }
 

@@ -133,3 +133,10 @@ img{
 .counter-button:hover{
   background-color: hsl(197, 100%, 48%);
 }
+
+/* useContext() hook */
+
+.box{
+  border: 3px solid;
+  padding: 25px;
+}
